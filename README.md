@@ -1,3 +1,3 @@
 # demo-2
 
-# this is my first commit - changes
+# this is my first commit
